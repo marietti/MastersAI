@@ -34,7 +34,7 @@ raw_data = train['len_sum'].values.astype('int32')
 Y_train = raw_data
 Y_train = tf.keras.utils.to_categorical(Y_train)
 train.drop(['len_sum'], axis=1, inplace=True)
-X_train = (train.values).astype('int32')
+X_train = train.values.astype('int32')
 
 scaler = StandardScaler()
 scaler.fit(X_train)

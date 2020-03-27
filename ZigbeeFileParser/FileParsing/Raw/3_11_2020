@@ -1,0 +1,5020 @@
+####################
+# 802.15.4 interpreter session
+# 2020-03-11 14:07:06
+####################
+[+] frame received (FCS OK): 2020-03-11 14:07:34
+channel: 16, 2430 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 03089cffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 156>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+####################
+# 802.15.4 interpreter session
+# 2020-03-11 14:12:22
+####################
+[+] frame received (FCS OK): 2020-03-11 14:30:44
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 4188cb881cffffb8bf0912fcffb8bf0174491802000080060028f3000902491802000080060000826a252839ea
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 203>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0174491802000080060028f3000902491802000080060000826a252839ea>
+
+####################
+# 802.15.4 interpreter session
+# 2020-03-11 14:32:30
+####################
+[+] frame received (FCS OK): 2020-03-11 15:11:30
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 0080c9881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 201>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 15:12:14
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 418872881cffffb8bf0912fcffb8bf010b4918020000800600288a0109024918020000800600009d5f900b8f56
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 114>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf010b4918020000800600288a0109024918020000800600009d5f900b8f56>
+
+[+] frame received (FCS OK): 2020-03-11 15:43:32
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080d9881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 217>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 15:46:03
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 4188ef881cffffb8bf0912fcffb8bf0188491802000080060028070209024918020000800600001a5e4ec63d64
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 239>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0188491802000080060028070209024918020000800600001a5e4ec63d64>
+
+[+] frame received (FCS OK): 2020-03-11 16:19:13
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080ec881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 236>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 16:19:42
+channel: 13, 2415 MHz
+RSSI: 18
+IEEE 802.15.4 frame: 030828ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 40>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 17:10:40
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 008007881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 7>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 17:18:59
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 41888c881cffffb8bf0912fcffb8bf0117491802000080060028840309024918020000800600001c50188329d9
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 140>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0117491802000080060028840309024918020000800600001c50188329d9>
+
+[+] frame received (FCS OK): 2020-03-11 17:19:20
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 008009881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 9>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 17:21:08
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 418894881cffffb8bf0912fcffb8bf011f4918020000800600288c030902491802000080060000bb05b910da1d
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 148>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf011f4918020000800600288c030902491802000080060000bb05b910da1d>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:03
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0200b6
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 182>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:04
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 6388b7881cb8bfd00c04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 183>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x0cd0>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:04
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 1200b7
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 183>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:04
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 618845881cd00cb8bf091ad00cb8bf01e2c1c80000008006004918020000800600283d040902491802000080060000f0bd671dd2566cd6
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 69>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x0cd0>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x091ad00cb8bf01e2c1c80000008006004918020000800600283d040902491802000080060000f0bd671dd2566cd6>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:04
+channel: 24, 2470 MHz
+RSSI: 6
+IEEE 802.15.4 frame: 020045
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 69>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:04
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 418846881cffffb8bf0912fcffb8bf01e44918020000800600283e04090249180200008006000062226c42f3e0
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 70>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01e44918020000800600283e04090249180200008006000062226c42f3e0>
+
+[+] frame received (FCS OK): 2020-03-11 17:56:33
+channel: 14, 2420 MHz
+RSSI: 36
+IEEE 802.15.4 frame: 030866ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 18:07:56
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008026881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 38>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 18:07:58
+channel: 26, 2480 MHz
+RSSI: 30
+IEEE 802.15.4 frame: 030861ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 97>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 18:28:50
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008035881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 53>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 18:28:52
+channel: 26, 2480 MHz
+RSSI: 0
+IEEE 802.15.4 frame: 030830ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 48>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 19:31:53
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00804f881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 79>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 19:31:55
+channel: 26, 2480 MHz
+RSSI: 6
+IEEE 802.15.4 frame: 03083dffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 61>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 19:37:37
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 008057881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 87>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 19:37:39
+channel: 26, 2480 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 030864ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 100>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 21:07:53
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008082881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 130>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 21:08:20
+channel: 12, 2410 MHz
+RSSI: 36
+IEEE 802.15.4 frame: 03083bffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 59>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 020083
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 131>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 618884881cb8bf87cf081ab8bf87cf0a5649180200008006004ec9000000800600286a220a004ec9000000800600006d30429632370690deac2ea31861f960ced0297f2b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 132>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf87cf0a5649180200008006004ec9000000800600286a220a004ec9000000800600006d30429632370690deac2ea31861f960ced0297f2b>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 020084
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 132>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 638885881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 133>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 020085
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 133>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 638886881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 134>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 020086
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 134>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 638887881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 135>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 120087
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 135>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 718863881c87cfb8bf081a87cfb8bf0ae64ec90000008006004918020000800600281a080902491802000080060000ab4a44b3d036359127d671035b9552556b51209f8a94249e7b73de5dfbda9c1e752a781f8918
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 99>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0ae64ec90000008006004918020000800600281a080902491802000080060000ab4a44b3d036359127d671035b9552556b51209f8a94249e7b73de5dfbda9c1e752a781f8918>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 020063
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 99>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 638888881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 136>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 120088
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 136>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 618864881c87cfb8bf081a87cfb8bf0ae74ec90000008006004918020000800600281b080902491802000080060000004a9a4d31880eec4027ae8b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 100>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0ae74ec90000008006004918020000800600281b080902491802000080060000004a9a4d31880eec4027ae8b>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 020064
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 100>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 618889881cb8bf87cf081ab8bf87cf0a5749180200008006004ec9000000800600286b220a004ec9000000800600002746732fb84fc8961a1c2f7b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 137>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf87cf0a5749180200008006004ec9000000800600286b220a004ec9000000800600002746732fb84fc8961a1c2f7b>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 020089
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 137>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 63888a881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 138>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 02008a
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 138>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 61888b881cb8bf87cf081ab8bf87cf0a5949180200008006004ec9000000800600286c220a004ec900000080060000aada389f61ee76cbff2357a458bf065264b288a579
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 139>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf87cf0a5949180200008006004ec9000000800600286c220a004ec900000080060000aada389f61ee76cbff2357a458bf065264b288a579>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 02008b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 139>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 63888c881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 140>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 02008c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 140>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 63888d881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 141>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 02008d
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 141>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 63888e881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 142>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 02008e
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 142>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 63888f881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 143>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 12008f
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 143>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 718865881c87cfb8bf081a87cfb8bf0ae94ec90000008006004918020000800600281c0809024918020000800600000db84a772297b1f76202d83957b4a623311207c394b83d8ea02f8c170c28578bf1a968483f44
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 101>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0ae94ec90000008006004918020000800600281c0809024918020000800600000db84a772297b1f76202d83957b4a623311207c394b83d8ea02f8c170c28578bf1a968483f44>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 020065
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 101>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 638890881cb8bf87cf04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 144>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xcf87>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 120090
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 144>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 618866881c87cfb8bf081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 618866881c87cfb8bf081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 618866881c87cfb8bf081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 618866881c87cfb8bf081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xcf87>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a87cfb8bf0aea4ec90000008006004918020000800600281d0809024918020000800600007f0ce0bb6113135bc4daf2b3>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 34
+IEEE 802.15.4 frame: 030891ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 145>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-11 22:12:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080a4881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 164>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 23:53:22
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080de881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 222>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-11 23:58:23
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418833881cffffb8bf0912fcffb8bf01b1491802000080060028ca0909024918020000800600000aedf87aae9b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 51>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01b1491802000080060028ca0909024918020000800600000aedf87aae9b>
+
+[+] frame received (FCS OK): 2020-03-12 00:14:33
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080e3881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 227>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 00:14:36
+channel: 26, 2480 MHz
+RSSI: 24
+IEEE 802.15.4 frame: 030862ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 98>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 01:10:08
+channel: 14, 2420 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0308b4ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 180>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+####################
+# 802.15.4 interpreter session
+# 2020-03-12 02:28:53
+####################
+[+] frame received (FCS OK): 2020-03-12 02:59:24
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008036881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 54>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 02:59:29
+channel: 14, 2420 MHz
+RSSI: 15
+IEEE 802.15.4 frame: 030812ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 18>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 03:00:02
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00803c881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 60>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 03:00:15
+channel: 13, 2415 MHz
+RSSI: 16
+IEEE 802.15.4 frame: 030841ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 65>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 03:17:58
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008043881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 67>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 03:20:49
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 41885b881cffffb8bf0912fcffb8bf01b7491802000080060028c20c0902491802000080060000d8340bd8c26b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 91>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01b7491802000080060028c20c0902491802000080060000d8340bd8c26b>
+
+[+] frame received (FCS OK): 2020-03-12 03:23:00
+channel: 20, 2450 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 03086cffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 108>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 03:32:17
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00804e881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 78>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 03:33:42
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 41889b881cffffb8bf0912fcffb8bf01e7491802000080060028f20c090249180200008006000078a0cd7d5124
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 155>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01e7491802000080060028f20c090249180200008006000078a0cd7d5124>
+
+[+] frame received (FCS OK): 2020-03-12 03:53:11
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 4188e8881cffffb8bf0912fcffb8bf01394918020000800600283f0d090249180200008006000077fecaefdf81
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 232>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01394918020000800600283f0d090249180200008006000077fecaefdf81>
+
+[+] frame received (FCS OK): 2020-03-12 04:03:55
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00805e881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 94>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 04:04:11
+channel: 12, 2410 MHz
+RSSI: 16
+IEEE 802.15.4 frame: 030880ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 128>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 04:21:54
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008066881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 102>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 04:24:05
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418876881cffffb8bf0912fcffb8bf01d6491802000080060028cd0d0902491802000080060000aece3d9b2eaf
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 118>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01d6491802000080060028cd0d0902491802000080060000aece3d9b2eaf>
+
+[+] frame received (FCS OK): 2020-03-12 04:53:55
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008078881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 120>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 04:54:51
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 4188fb881cffffb8bf0912fcffb8bf014f491802000080060028420e090249180200008006000089bc85f03361
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 251>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf014f491802000080060028420e090249180200008006000089bc85f03361>
+
+[+] frame received (FCS OK): 2020-03-12 05:07:16
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00807b881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 123>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 05:07:21
+channel: 14, 2420 MHz
+RSSI: 15
+IEEE 802.15.4 frame: 0308abffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 171>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 05:07:53
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008080881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 128>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 05:08:03
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 41882c881cffffb8bf0912fcffb8bf0180491802000080060028730e0902491802000080060000e3cd6c821a95
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 44>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0180491802000080060028730e0902491802000080060000e3cd6c821a95>
+
+[+] frame received (FCS OK): 2020-03-12 05:18:45
+channel: 13, 2415 MHz
+RSSI: 42
+IEEE 802.15.4 frame: 0308f4ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 244>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 05:25:50
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008087881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 135>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 05:26:32
+channel: 13, 2415 MHz
+RSSI: 26
+IEEE 802.15.4 frame: 030872ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 114>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 05:34:01
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00808a881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 138>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 05:34:59
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 41889e881cffffb8bf0912fcffb8bf01e2491802000080060028d50e0902491802000080060000d46412a2ac85
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 158>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01e2491802000080060028d50e0902491802000080060000d46412a2ac85>
+
+[+] frame received (FCS OK): 2020-03-12 05:40:09
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008092881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 146>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 05:50:41
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008095881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 149>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 06:05:58
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 00809a881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 154>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 06:07:14
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418814881cffffb8bf0912fcffb8bf01584918020000800600284b0f0902491802000080060000b7582e4aca06
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 20>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01584918020000800600284b0f0902491802000080060000b7582e4aca06>
+
+[+] frame received (FCS OK): 2020-03-12 06:12:04
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080a1881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 161>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 06:15:11
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418830881cffffb8bf0912fcffb8bf0174491802000080060028670f09024918020000800600009f75b606164b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 48>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0174491802000080060028670f09024918020000800600009f75b606164b>
+
+[+] frame received (FCS OK): 2020-03-12 06:43:14
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080ad881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 173>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 06:43:36
+channel: 16, 2430 MHz
+RSSI: 118
+IEEE 802.15.4 frame: 206ae9fdbd73ca45eb3aa9f5fdf4b9f899abfb873be89da58ed83a3ffee3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '1 : Reserved'>
+ <[FrameVers] : 0b10>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b10>
+ <[SeqNum] : 233>
+ <[DstPANID] : 0xbdfd>
+ <[DstAddr] : 0xca73>
+ <[SrcPANID] : 0xeb45>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x3aa9f5fdf4b9f899abfb873be89da58ed83a3ffee3>
+
+[+] frame received (FCS OK): 2020-03-12 07:09:51
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080ba881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 186>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 07:11:26
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 41880d881cffffb8bf0912fcffb8bf0141491802000080060028341009024918020000800600004501cdbe742b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 13>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0141491802000080060028341009024918020000800600004501cdbe742b>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:00
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080c1881cb8bfff0f0000002284881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 193>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002284881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 61884f881cb8bffd3c0912b8bffd3c016feec70000008006002825030700eec700000080060000c3d3e27d251c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 79>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x3cfd>
+	### [Data] ###
+	 <[RawData] : 0x0912b8bffd3c016feec70000008006002825030700eec700000080060000c3d3e27d251c>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 02004f
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 79>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 18
+IEEE 802.15.4 frame: 638850881cb8bffd3c04
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 80>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x3cfd>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 120050
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 80>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 61882b881cfd3cb8bf091afd3cb8bf0163eec7000000800600491802000080060028521009024918020000800600000dcf8dbeba93fde5
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 43>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x3cfd>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x091afd3cb8bf0163eec7000000800600491802000080060028521009024918020000800600000dcf8dbeba93fde5>
+
+[+] frame received (FCS OK): 2020-03-12 07:16:01
+channel: 24, 2470 MHz
+RSSI: 18
+IEEE 802.15.4 frame: 02002b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 43>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 07:47:06
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080cc881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 204>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 07:47:09
+channel: 16, 2430 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 03083dffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 61>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 08:24:47
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080e5881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 229>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 08:26:21
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418848881cffffb8bf0912fcffb8bf01784918020000800600285f110902491802000080060000bae184797db4
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 72>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01784918020000800600285f110902491802000080060000bae184797db4>
+
+[+] frame received (FCS OK): 2020-03-12 08:30:27
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080e8881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 232>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 08:30:36
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 418857881cffffb8bf0912fcffb8bf01874918020000800600286e110902491802000080060000b4e4685b0ede
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 87>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01874918020000800600286e110902491802000080060000b4e4685b0ede>
+
+[+] frame received (FCS OK): 2020-03-12 08:51:06
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0080f1881cb8bfff0f0000002284881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 241>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002284881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 08:51:08
+channel: 16, 2430 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 0308a4ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 164>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 08:51:54
+channel: 26, 2480 MHz
+RSSI: 1
+IEEE 802.15.4 frame: 0308c5ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 197>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 09:09:36
+channel: 13, 2415 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0308c1ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 193>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 09:23:04
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008003881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 3>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 09:23:52
+channel: 26, 2480 MHz
+RSSI: -2
+IEEE 802.15.4 frame: 0308e5ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 229>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 09:56:50
+channel: 24, 2470 MHz
+RSSI: 8
+IEEE 802.15.4 frame: 008014881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 20>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 09:56:52
+channel: 26, 2480 MHz
+RSSI: 17
+IEEE 802.15.4 frame: 0308eeffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 238>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 09:57:37
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008017881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 23>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 09:58:53
+channel: 24, 2470 MHz
+RSSI: 23
+IEEE 802.15.4 frame: 4188e7881cffffb8bf0912fcffb8bf0110491802000080060028de120902491802000080060000f1bf06ef7108
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 231>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0110491802000080060028de120902491802000080060000f1bf06ef7108>
+
+[+] frame received (FCS OK): 2020-03-12 10:03:54
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 008019881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 25>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 10:04:50
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 4188fd881cffffb8bf0912fcffb8bf0126491802000080060028f41209024918020000800600005430b567bcfb
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 253>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf0126491802000080060028f41209024918020000800600005430b567bcfb>
+
+[+] frame received (FCS OK): 2020-03-12 10:26:39
+channel: 24, 2470 MHz
+RSSI: 22
+IEEE 802.15.4 frame: 008022881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 34>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 10:28:23
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 418853881cffffb8bf0912fcffb8bf017c4918020000800600284a1309024918020000800600006a44b69848a3
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 83>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf017c4918020000800600284a1309024918020000800600006a44b69848a3>
+
+[+] frame received (FCS OK): 2020-03-12 10:28:48
+channel: 12, 2410 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 030827ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 39>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 10:28:50
+channel: 20, 2450 MHz
+RSSI: 16
+IEEE 802.15.4 frame: 03082fffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 47>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 10:46:18
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 00802e881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 46>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 10:50:52
+channel: 24, 2470 MHz
+RSSI: 16
+IEEE 802.15.4 frame: 4188b6881cffffb8bf0912fcffb8bf01cf4918020000800600289d130902491802000080060000b9872b75c87a
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 182>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01cf4918020000800600289d130902491802000080060000b9872b75c87a>
+
+[+] frame received (FCS OK): 2020-03-12 11:00:47
+channel: 16, 2430 MHz
+RSSI: 18
+IEEE 802.15.4 frame: 03084bffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 75>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 11:01:21
+channel: 24, 2470 MHz
+RSSI: 21
+IEEE 802.15.4 frame: 4188dc881cffffb8bf0912fcffb8bf01f5491802000080060028c313090249180200008006000090a371290fe1
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 220>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01f5491802000080060028c313090249180200008006000090a371290fe1>
+
+[+] frame received (FCS OK): 2020-03-12 11:42:03
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 008047881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 71>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 11:42:04
+channel: 26, 2480 MHz
+RSSI: 30
+IEEE 802.15.4 frame: 030871ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 113>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 11:51:29
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 4188a1881cffffb8bf0912fcffb8bf01aa49180200008006002878140902491802000080060000bf13de097592
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 161>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01aa49180200008006002878140902491802000080060000bf13de097592>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 14
+IEEE 802.15.4 frame: 12006e
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 110>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 14
+IEEE 802.15.4 frame: 6188df881c9a46b8bf091a9a46b8bf01e8a7c7000000800600491802000080060028b614090249180200008006000001b90dac7e53688d
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 223>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x091a9a46b8bf01e8a7c7000000800600491802000080060028b614090249180200008006000001b90dac7e53688d>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0200df
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 223>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 61886f881cb8bf9a460802fdff9a460afa28d5220500a7c700000080060000960629b2a9a9a327f7ee48ab3471983f359e441efa9a25ab
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 111>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x0802fdff9a460afa28d5220500a7c700000080060000960629b2a9a9a327f7ee48ab3471983f359e441efa9a25ab>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 02006f
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 111>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 618870881cb8bf9a46081ab8bf9a460afc4918020000800600a7c700000080060028d6220500a7c700000080060000d34853335dc8cfa7582abdd80058ec3fff035e7eb4
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 112>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf9a460afc4918020000800600a7c700000080060028d6220500a7c700000080060000d34853335dc8cfa7582abdd80058ec3fff035e7eb4>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020070
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 112>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638871881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 113>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020071
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 113>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 4188e0881cffffb8bf0802fdff9a4609fa28b71409024918020000800600001928db3a032dd220584870d85cc29336f38c687d7a6207e4
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 224>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0802fdff9a4609fa28b71409024918020000800600001928db3a032dd220584870d85cc29336f38c687d7a6207e4>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638872881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 114>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020072
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 114>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638873881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 115>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 120073
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 115>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 7188e1881c9a46b8bf081a9a46b8bf0aeba7c7000000800600491802000080060028b814090249180200008006000038c5d36bd1fa779b04a1dec3a04d9fd1660ca0967469c5a1d109c9a4a9c9e7f97680542c07dc
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 225>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0aeba7c7000000800600491802000080060028b814090249180200008006000038c5d36bd1fa779b04a1dec3a04d9fd1660ca0967469c5a1d109c9a4a9c9e7f97680542c07dc>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0200e1
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 225>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638874881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 116>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 120074
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 116>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 6188e2881c9a46b8bf081a9a46b8bf0aeca7c7000000800600491802000080060028b9140902491802000080060000965f7a3ffc86140f93e920e6
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 226>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0aeca7c7000000800600491802000080060028b9140902491802000080060000965f7a3ffc86140f93e920e6>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0200e2
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 226>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 618875881cb8bf9a46081ab8bf9a460afd4918020000800600a7c700000080060028d7220500a7c700000080060000b00645be1af2818950b42a53
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 117>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf9a460afd4918020000800600a7c700000080060028d7220500a7c700000080060000b00645be1af2818950b42a53>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 020075
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 117>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638876881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 118>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020076
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 118>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 618877881cb8bf9a46081ab8bf9a460aff4918020000800600a7c700000080060028d8220500a7c7000000800600001b369e8629d4383b009c311e11eccd3d545c18821f
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 119>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf9a460aff4918020000800600a7c700000080060028d8220500a7c7000000800600001b369e8629d4383b009c311e11eccd3d545c18821f>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020077
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 119>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 638878881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 120>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 020078
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 120>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 638879881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 121>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 020079
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 121>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 63887a881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 122>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 13
+IEEE 802.15.4 frame: 12007a
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 122>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 7188e5881c9a46b8bf081a9a46b8bf0af1a7c7000000800600491802000080060028bc1409024918020000800600003ecba89c15cfed6c833ef86e37f17c6139ebcf9ba0d4f5ca70258447238d1a0808483808e450
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 229>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0af1a7c7000000800600491802000080060028bc1409024918020000800600003ecba89c15cfed6c833ef86e37f17c6139ebcf9ba0d4f5ca70258447238d1a0808483808e450>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 0200e5
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 229>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 638882881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 130>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 120082
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 130>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 6188e6881c9a46b8bf081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 230>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 6188e6881c9a46b8bf081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 230>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 6188e6881c9a46b8bf081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 230>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 12
+IEEE 802.15.4 frame: 6188e6881c9a46b8bf081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 230>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0af2a7c7000000800600491802000080060028bd140902491802000080060000c6e87f2f2bcc19f81d08a60c>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 10
+IEEE 802.15.4 frame: 030883ffffffff07
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 131>
+ <[DstPANID] : 0xffff>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+	### [Data] ###
+	 <[RawData] : 0x07>
+
+[+] frame received (FCS OK): 2020-03-12 12:08:13
+channel: 24, 2470 MHz
+RSSI: 11
+IEEE 802.15.4 frame: 008052881cb8bfff0f0000002284881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 82>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002284881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 12:29:28
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 00805f881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 95>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 12:30:25
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 418845881cffffb8bf0912fcffb8bf01584918020000800600281c150902491802000080060000498fddb24f39
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 69>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01584918020000800600281c150902491802000080060000498fddb24f39>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 12009b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 155>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 63889c881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 156>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 12009c
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 156>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 718889881c9a46b8bf081a9a46b8bf0a8da7c7000000800600491802000080060028501509024918020000800600004131178df3bed55f4eaa8780
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 137>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x081a9a46b8bf0a8da7c7000000800600491802000080060028501509024918020000800600004131178df3bed55f4eaa8780>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 020089
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 137>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 63889d881cb8bf9a4604
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '3 : MAC command'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 157>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x04>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 12009d
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '1 : True'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 157>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 20
+IEEE 802.15.4 frame: 61888a881c9a46b8bf091a9a46b8bf018ea7c70000008006004918020000800600285115090249180200008006000010d63d9b2177e73b
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 138>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0x469a>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x091a9a46b8bf018ea7c70000008006004918020000800600285115090249180200008006000010d63d9b2177e73b>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:21
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 02008a
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 138>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:22
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 61889e881cb8bf9a460802fdff9a460a1028e3220500a7c700000080060000c6899dbadb58f7c70b4a27a858bc37f8bc9e5a7b1fb5e960
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 158>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x0802fdff9a460a1028e3220500a7c700000080060000c6899dbadb58f7c70b4a27a858bc37f8bc9e5a7b1fb5e960>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:22
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 02009e
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 158>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:22
+channel: 24, 2470 MHz
+RSSI: 7
+IEEE 802.15.4 frame: 61889f881cb8bf9a46081ab8bf9a460a124918020000800600a7c700000080060028e4220500a7c700000080060000f60e28d6229b9417af1b5f225ba2ac1729f485ae7d
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '1 : True'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 159>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xbfb8>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x469a>
+	### [Data] ###
+	 <[RawData] : 0x081ab8bf9a460a124918020000800600a7c700000080060028e4220500a7c700000080060000f60e28d6229b9417af1b5f225ba2ac1729f485ae7d>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:22
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 02009f
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '2 : Ack'>
+ <[SrcAddrMode] : '0 : Not present'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 159>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0x>
+
+[+] frame received (FCS OK): 2020-03-12 12:43:22
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 41888b881cffffb8bf0802fdff9a460910285215090249180200008006000015d26a381a9087ca47518b6c9644e0b943a12f64c69a3c08
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 139>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0802fdff9a460910285215090249180200008006000015d26a381a9087ca47518b6c9644e0b943a12f64c69a3c08>
+
+[+] frame received (FCS OK): 2020-03-12 12:46:01
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 00806a881cb8bfff0f0000002204881c00ffff2e2100ffffff00
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '0 : False'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '0 : Beacon'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '0 : Not present'>
+ <[Res] : 0b00>
+ <[SeqNum] : 106>
+ <[DstPANID] : 0x>
+ <[DstAddr] : 0x>
+ <[SrcPANID] : 0x1c88>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0xff0f0000002204881c00ffff2e2100ffffff00>
+
+[+] frame received (FCS OK): 2020-03-12 12:49:10
+channel: 24, 2470 MHz
+RSSI: 19
+IEEE 802.15.4 frame: 4188cc881cffffb8bf0912fcffb8bf01e749180200008006002893150902491802000080060000a1d2e8ed01fa
+IEEE 802.15.4 MAC:
+[[[ IEEE 802.15.4 ]]]
+### [MAC] ###
+ <[Res] : 0b0>
+ <[IntraPAN] : '1 : True'>
+ <[AckReq] : '0 : False'>
+ <[FramePending] : '0 : False'>
+ <[Security] : '0 : False'>
+ <[Type] : '1 : Data'>
+ <[SrcAddrMode] : '2 : 16-bit address'>
+ <[FrameVers] : 0b00>
+ <[DstAddrMode] : '2 : 16-bit address'>
+ <[Res] : 0b00>
+ <[SeqNum] : 204>
+ <[DstPANID] : 0x1c88>
+ <[DstAddr] : 0xffff>
+ <[SrcPANID] : 0x>
+ <[SrcAddr] : 0xbfb8>
+	### [Data] ###
+	 <[RawData] : 0x0912fcffb8bf01e749180200008006002893150902491802000080060000a1d2e8ed01fa>
+
