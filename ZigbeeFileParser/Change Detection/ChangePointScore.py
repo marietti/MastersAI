@@ -1,13 +1,8 @@
-from os.path import dirname, join as pjoin
-
 import numba as nb
 import scipy.io as sio
 from pylab import *
 from scipy import linalg
 import numpy.matlib
-import scipy
-from scipy import spatial
-import math
 import cProfile
 
 
@@ -445,7 +440,7 @@ def change_detection(X, n, k, alpha, fold):
         ySTD = std(Y, 1, ddof=1)
         yStdTrans = ySTD.conj().transpose()
         RepMat = np.matlib.repmat(yStdTrans, 1, 2 * n)
-        RepMatReShape = np.reshape(RepMat, (100, k))
+        RepMatReShape = np.reshape(RepMat, (n*2, k))
         yRepMat = RepMatReShape.conj().transpose()
         Y = np.true_divide(Y, yRepMat)
         Ylen = shape(Y)

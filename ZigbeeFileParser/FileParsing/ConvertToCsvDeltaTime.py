@@ -1,8 +1,9 @@
 from datetime import datetime
 import csv
 
-file = "3_26_2020"
-direct = "C:/Users/nickb/OneDrive/Documents/Masters Project AI/data/"
+file = "cc2531_sniffer_2_3_2021"
+#direct = "C:/Users/nickb/OneDrive/Documents/Masters Project AI/data/"
+direct = "C:\\Users\\nickb\\source\\repos\\MastersAI\\ZigbeeFileParser\\FileParsing\\Raw"
 directory = "Raw"
 header = ''
 output = ""
@@ -47,8 +48,10 @@ diffTime = [0] * dictIndex
 first = 0
 
 f = open(direct + "\\" + file, "r")
-fo = open(directory + "\\" + file + "out", "w+")
-
+fo = open(direct + "\\" + file + "out", 'w', newline='', encoding='utf-8')
+for x in Dict.keys():
+    header += "," + x
+fo.write(header + "\n")
 wr = csv.writer(fo)
 for x in f:
     result = x.find('[+]')

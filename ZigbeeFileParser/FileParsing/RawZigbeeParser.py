@@ -1,5 +1,6 @@
-file = "3_26_2020"
-directory = "Raw"
+file = "3_19_2020"
+#directory = "C:\\Users\\nickb\\OneDrive\\Documents\\Masters Project AI\\data"
+directory = "C:\\Users\\nickb\\source\\repos\\MastersAI\\ZigbeeFileParser\\FileParsing\\Raw"
 header = 'datetime,channel,RSSI,frame,len,res1,intrapan,ackreq,framepending,security,type,srcaddrmode,framevers,' \
          'dstaddrmode,res2,seqnum,dstpanid,dstaddr,srcpanid,srcaddr,rawdata\n'
 output = ""
