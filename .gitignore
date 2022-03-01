@@ -8,3 +8,20 @@ ZigbeeFileParser/SupervisedAlgorithms/RandomForest/cc2531_sniffer_2_3_2021_Train
 ZigbeeFileParser/FileParsing/Raw/cc2531_sniffer
 
 ZigbeeFileParser/FileParsing/No_ms/Calendarout
+WebInterface/WebInterface/WebInterface/db.sqlite3
+ZigbeeFileParser/FileParsing/Raw/cc2531_sniffer_3
+ZigbeeFileParser/SupervisedAlgorithms/kNearestNeighbors/Custom_Grid_Search_Out_Cross_Validation_Data_Only
+ZigbeeFileParser/SupervisedAlgorithms/kNearestNeighbors/Custom_Grid_Search_Out_Cross_Validation_KNN
+.idea/MastersAI.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+WebInterface/WebInterface/.idea/misc.xml
+WebInterface/WebInterface/.idea/modules.xml
+WebInterface/WebInterface/.idea/vcs.xml
+WebInterface/WebInterface/.idea/WebInterface.iml
+WebInterface/WebInterface/.idea/inspectionProfiles/profiles_settings.xml
+WebInterface/WebInterface/.idea/inspectionProfiles/Project_Default.xml
