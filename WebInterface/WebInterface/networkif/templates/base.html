@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+$(document).ready(function() {
+  var point = $(this);
+  $.ajaxSetup({ cache: false }); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
+  var data = {};
+  var my_refresh = setInterval(function() {
+        $.ajax({
+          url: '{% url 'networkif' %}',
+          type: 'GET',
+          data: data,
+          dataType: 'json',
+          success: function(resp) {
+            $('#title').html(resp.title);
+            $('#sensorReadings').html(resp.sensorReadings);
+          }
+        });
+  }, 1000); // the "1000"
+});
+</script>
+<body>
+     <h1 id="title">{{ title }}</h1>
+     <p id="sensorReadings">{{ sensorReadings }}</p>
+</body>
+</html>
